@@ -5,6 +5,7 @@ projects out of work time
 + NLP
   + Information Extraction
     + Relation Extration
+    + 🐻
 # NLP
 Information Extraction
 
