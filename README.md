@@ -7,7 +7,9 @@ projects out of work time
     + Relation Extration
 # NLP
 Information Extraction
+
 Relation Extraction
+
 NER
 Cross-Lingual
 Graph
