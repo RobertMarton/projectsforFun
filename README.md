@@ -1,7 +1,7 @@
 # projectsforFun
 projects out of work time
 # Categories
-+ Categories
++ [Categories](https://github.com/RobertMarton/projectsforFun/blob/main/README.md#categories)
 + NLP
   + Information Extraction
   
