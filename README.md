@@ -1,4 +1,4 @@
-# projectsforFun
+# PKU projectsforFun
 projects out of work time
 # Categories
 + [Categories](https://github.com/RobertMarton/projectsforFun/blob/main/README.md#categories)
@@ -70,17 +70,17 @@ Attention
 Normalization
 
 # Strategy
-Metric Learning
+###  Metric Learning
 
-Interpretability
+### Interpretability
 
-Multi-task
+### Multi-task
 
-Regularization
+### Regularization
 
-Optimization
+### Optimization
 
-Negative Sample
+### Negative Sample
 
 # Data
 Unbalance Classify
