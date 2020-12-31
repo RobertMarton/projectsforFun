@@ -1,5 +1,5 @@
 # PKU projectsforFun
-projects out of work time
+NLP projects out of work time in PKU Institute of Computational Linguistics
 # Categories
 + [Categories](https://github.com/RobertMarton/projectsforFun/blob/main/README.md#categories)
 + NLP
